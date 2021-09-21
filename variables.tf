@@ -1,4 +1,4 @@
 variable "owner" {
   type = string 
-  default = "mikelikesboats"
+  default = "jmau"
 }
